@@ -1,0 +1,1010 @@
+{
+  "products": [
+    {
+      "productId": "1924396216388726786",
+      "categoryId": "D2432903-0D4E-4787-886F-D3D9DA7890D9",
+      "categoryName": "Women's Clothing/Tops & Sets/Lady Dresses",
+      "createdAt": {
+        "$date": "2025-05-19T11:00:15.843Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-05-18T16:00:00.000Z"
+      },
+      "productDescription": "<p>Step into the spotlight with this dazzling&nbsp;bold &amp; sexy sequin mini dress. Perfect for&nbsp;weddings, cocktail parties, galas, photoshoots, and music festivals, this bodycon silhouette combines&nbsp;high-shine sequin embroidery with playful fringe details&nbsp;for a head-turning fantasy look.</p>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/44cd9c6a-4ecf-41b3-a573-e24f5837a093.jpg",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/327cb311-8c08-4ba3-86e0-447c87c252c4.jpg",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/6f4edab0-7b25-4882-85eb-3acbcc25fb75.jpg",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/3359aba0-5996-4907-a740-bef35680ee59.png",
+          "imageSortOrder": 3
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/53643e9b-394b-4efb-824e-cb027fce2222.jpg",
+          "imageSortOrder": 4
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/9d47c810-f106-4970-8322-dba599970062.jpg",
+          "imageSortOrder": 5
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/26c87c06-de46-451c-a153-a5fd703749a9.jpg",
+          "imageSortOrder": 6
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/6de9bffd-1e09-4684-a439-26b67cb7cc74.jpg",
+          "imageSortOrder": 7
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/5234c21a-197a-4b5f-8f9b-27fc3c46b83a.jpg",
+          "imageSortOrder": 8
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/5651effb-d84e-4e97-9665-66d7e031a5ed.jpg",
+          "imageSortOrder": 9
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/d5df6452-a2af-4547-a9af-cb7da59596aa.jpg",
+          "imageSortOrder": 10
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/8a4aaf84-f6dc-4171-84d8-abe9a3102fa3.jpg",
+          "imageSortOrder": 11
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/fe63d1e5-741e-42c5-8748-6bb4f6d64f15.jpg",
+          "imageSortOrder": 12
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/3869f60d-003b-4db6-8864-cae9869e861c.jpg",
+          "imageSortOrder": 13
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/bd3559a0-d534-4c19-8096-c2636093291d.jpg",
+          "imageSortOrder": 14
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/bcf3cce4-7074-487b-b99e-9b9cac4bae7d.jpg",
+          "imageSortOrder": 15
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/ca9669f5-fde6-4c3a-8a9f-53f4cd39ed6d.jpg",
+          "imageSortOrder": 16
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/45f883c3-9615-4b18-9f3e-c50df021f0d8.jpg",
+          "imageSortOrder": 17
+        }
+      ],
+      "productNameEn": "Women's Glitter Spaghetti Strap Formal Evening Party Dress",
+      "productType": "SUPPLIER_SHIPPED_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:00:15.843Z"
+      },
+      "productWeight": 210,
+      "productsku": "NFLY2380395",
+      "updatedAt": {
+        "$date": "2025-05-19T11:00:43.279Z"
+      },
+      "variants": [
+        {
+          "variantId": "1924396216476807188",
+          "variantKey": "Black-XS",
+          "variantSku": "NFLY238039520TG",
+          "variantNameEn": "",
+          "variantWeight": 210,
+          "variantVolume": 10296000,
+          "variantCreateTime": {
+            "$date": "2025-05-19T09:26:27.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:00:15.843Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 25,
+            "sellPrice": 25
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/3869f60d-003b-4db6-8864-cae9869e861c.jpg"
+        }
+      ]
+    },
+    {
+      "productId": "1922916773295448066",
+      "categoryId": "26F7660F-A00A-468A-BA29-E61A465C0D0B",
+      "categoryName": "Health, Beauty & Hair/Nail Art & Tools/Nail Decorations",
+      "createdAt": {
+        "$date": "2025-05-19T11:00:43.648Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-05-14T16:00:00.000Z"
+      },
+      "productDescription": "<p>Fall in love with our Velvet Heart Shimmer nails. These enchanting press-ons showcase a luxurious rose pink base with a sophisticated velvet-like texture, from which gleaming heart patterns emerge like hidden treasures. The magical combination of matte and shimmer finishes creates a captivating depth that catches light and attention from every angle.</p>\n <p><img src=\"https://cf.not-found.com/c4ca7a71-c323-4470-8db1-2a7fd3590368.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/20883aab-798a-475f-9d55-a529faaafcf0.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/f3fc3a77-08d3-4a6c-ac61-6ab86b049a41.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/c19d8804-6aa2-4d63-a3e8-b72880ac01dc.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/0518b937-4465-4dcc-b0b1-80d53526b9db.png\" style=\"max-width:100%;\" contenteditable=\"false\"/></p>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/9ea903c5-8694-4e82-9a81-bf9c86a9b286.png",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/d8882f9c-cd16-4fc3-9b88-200fe7d45550.png",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/b39c850f-df70-456d-95d0-0c860cb7ff6b.png",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/9cd1feb6-7900-4c6f-8e15-64a6a9f02567.png",
+          "imageSortOrder": 3
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/4f25ed65-4791-4032-93c6-49e544e5968c.png",
+          "imageSortOrder": 4
+        }
+      ],
+      "productNameEn": "Velvet Heart Shimmer",
+      "productType": "SUPPLIER_SHIPPED_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:00:43.648Z"
+      },
+      "productWeight": 100,
+      "productsku": "NFZJ2377041",
+      "updatedAt": {
+        "$date": "2025-05-19T11:00:58.660Z"
+      },
+      "variants": [
+        {
+          "variantId": "1922916773412888577",
+          "variantKey": "L",
+          "variantSku": "NFZJ237704101AZ",
+          "variantNameEn": "",
+          "variantWeight": 100,
+          "variantVolume": 1000000,
+          "variantCreateTime": {
+            "$date": "2025-05-15T07:27:39.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:00:43.648Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 15.2,
+            "sellPrice": 15.2
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/9cd1feb6-7900-4c6f-8e15-64a6a9f02567.png"
+        }
+      ]
+    },
+    {
+      "productId": "1922913354034036737",
+      "categoryId": "26F7660F-A00A-468A-BA29-E61A465C0D0B",
+      "categoryName": "Health, Beauty & Hair/Nail Art & Tools/Nail Decorations",
+      "createdAt": {
+        "$date": "2025-05-19T11:00:59.008Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-05-14T16:00:00.000Z"
+      },
+      "productDescription": "<p>Experience the ethereal beauty of our Peach Sunset Gradient nails. These artistically crafted press-ons capture the essence of a summer sunset with a seamless triple gradient – from pure white at the base, transitioning through soft pink, and ending in warm peach tones. Each nail tells the story of a perfect sunset moment, creating a romantic and dreamy effect suitable for any occasion.</p>\n <p><img src=\"https://cf.not-found.com/bec14857-a983-4b98-a662-46477e66a63e.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/d6bdeda0-4877-4919-9f9d-fba1cfe26609.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/42a4107c-9d78-40b3-b6ed-2791c9429b7c.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/adaed2f7-c45e-4303-bef9-fdbd9245931f.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/e1e600ef-82d9-44b8-b028-f6f391a71d60.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/02633f0c-8d48-4c50-95a8-8c8176bbd00d.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/19d6719a-871e-4616-83f9-666335f69ec7.png\" style=\"max-width:100%;\" contenteditable=\"false\"/></p>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/1f640305-79cd-4a18-94be-b91e30577baa.png",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/ead7a515-e845-41ea-8274-12e2d662d16e.png",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/eead9364-9f53-4e69-90f3-997017b6bd0d.png",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/18144f1d-f8b8-4061-85ae-17de9fc10da1.png",
+          "imageSortOrder": 3
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/30a30dc0-3c12-4b4d-86f4-df2a19d68d7a.png",
+          "imageSortOrder": 4
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/5da22264-17a7-4f42-af57-f99adc185a47.png",
+          "imageSortOrder": 5
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/ff51b085-4d40-41f1-a7cd-b329101a1cb6.png",
+          "imageSortOrder": 6
+        }
+      ],
+      "productNameEn": "Peach Sunset Gradient",
+      "productType": "SUPPLIER_SHIPPED_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:00:59.008Z"
+      },
+      "productWeight": 100,
+      "productsku": "NFZJ2377018",
+      "updatedAt": {
+        "$date": "2025-05-19T11:01:15.076Z"
+      },
+      "variants": [
+        {
+          "variantId": "1922913354101145601",
+          "variantKey": "S",
+          "variantSku": "NFZJ237701801AZ",
+          "variantNameEn": "",
+          "variantWeight": 100,
+          "variantVolume": 1000000,
+          "variantCreateTime": {
+            "$date": "2025-05-15T07:14:04.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:00:59.008Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 14,
+            "sellPrice": 14
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/ead7a515-e845-41ea-8274-12e2d662d16e.png"
+        }
+      ]
+    },
+    {
+      "productId": "1922912016202055681",
+      "categoryId": "26F7660F-A00A-468A-BA29-E61A465C0D0B",
+      "categoryName": "Health, Beauty & Hair/Nail Art & Tools/Nail Decorations",
+      "createdAt": {
+        "$date": "2025-05-19T11:01:15.510Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-05-14T16:00:00.000Z"
+      },
+      "productDescription": "<p>Transform your nails into elegant gift boxes with our Red Ribbon Gift collection. These sophisticated press-ons feature hand-painted red ribbons delicately drawn across a luminous white base, creating the perfect bow design on each nail. The precise line work and balanced composition offer a premium, salon-quality finish that makes every finger look like a carefully wrapped present. Ideal for Christmas, Valentine’s Day, or any celebration where you want to add a touch of festive luxury.</p>\n <p><img src=\"https://cf.not-found.com/e8942149-cfd8-4827-8159-ba9351ab8c6b.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/7293a8b4-d635-423b-adbb-5e4b4eb67f0c.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/36a37319-7bf8-43b9-aaf2-280d264d92f1.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/502e8d88-3046-42c8-92d6-9719eb87bc9d.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/f8f38130-a2e2-4088-bb03-96f4112e4cce.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/ff629055-b830-4650-a859-4ec3c3b3da77.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/71b3f29d-9c01-428d-8b7b-610fc59c8694.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/609c31c7-c3f6-4346-b010-63dcd4c70bf6.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/91f412bc-e53c-44f3-96fe-b0b993a1b054.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/2f4cad5f-96c6-4372-9b81-fe76bc72126d.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/40fe51b0-cfe7-4cbb-96a1-130bbfae3f27.png\" style=\"max-width:100%;\" contenteditable=\"false\"/></p>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/40d8f3dd-f73c-4d92-adbc-da75d4f44cfc.png",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/596d6455-b003-454d-b4c0-bbdcb2992013.png",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/c9b7c5bf-17ed-4091-9db7-3ba0d98a90ad.png",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/9b450740-d477-49b9-8049-d638e3499d91.png",
+          "imageSortOrder": 3
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/9004063e-33eb-48b3-b440-809b501ff2a7.png",
+          "imageSortOrder": 4
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/e163d244-49c3-43ce-a988-72d6af97c8df.png",
+          "imageSortOrder": 5
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/3320e3ae-add8-4550-a158-1e577e166c4c.png",
+          "imageSortOrder": 6
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/e892ce62-ae12-4235-b2f1-b91f1154603c.png",
+          "imageSortOrder": 7
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/7e6a9731-4c31-476e-bc58-c96c1c618fcb.png",
+          "imageSortOrder": 8
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/4e2d69a8-6dfc-4dc2-b125-dc2d666a242b.png",
+          "imageSortOrder": 9
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/8ac9c958-c9f2-4654-b773-00c20937b8fe.png",
+          "imageSortOrder": 10
+        }
+      ],
+      "productNameEn": "Red Ribbon Gift",
+      "productType": "SUPPLIER_SHIPPED_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:01:15.510Z"
+      },
+      "productWeight": 100,
+      "productsku": "NFZJ2377009",
+      "updatedAt": {
+        "$date": "2025-05-19T11:01:33.303Z"
+      },
+      "variants": [
+        {
+          "variantId": "1922912016294330370",
+          "variantKey": "L",
+          "variantSku": "NFZJ237700901AZ",
+          "variantNameEn": "",
+          "variantWeight": 100,
+          "variantVolume": 1000000,
+          "variantCreateTime": {
+            "$date": "2025-05-15T07:08:45.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:01:15.510Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 14.4,
+            "sellPrice": 14.4
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/9b450740-d477-49b9-8049-d638e3499d91.png"
+        }
+      ]
+    },
+    {
+      "productId": "1919953817593438210",
+      "categoryId": "8E00C4BE-1E35-43E7-A891-6CAE58BB48CF",
+      "categoryName": "Health, Beauty & Hair/Beauty Tools/Massage & Relaxation",
+      "createdAt": {
+        "$date": "2025-05-19T11:01:33.985Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-05-06T16:00:00.000Z"
+      },
+      "productDescription": "<p><img src=\"https://cf.not-found.com/738e9d39-f3f5-43c1-b4f9-be4d19dbf262.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/831360ca-84db-4848-95fb-2b0befc5f3ab.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/6f70d0d6-e9cf-4aa3-a9b6-26c57fae5cd3.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/64347eb9-894c-48b9-bde2-9610fc77ac9d.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/4a9bc589-95b5-4329-9ac1-8e5bdcc27221.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/ed5f66e1-ea1f-48d7-a0f1-937f91104d7b.jpg\" style=\"max-width:100%;\" contenteditable=\"false\"/></p>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/b99b41c6-7a02-442f-8f62-6e658c384a8c.jpg",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/9915a9ad-470c-4323-a6a7-48cebaa40731.jpg",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/d8b3d7b0-b162-40dd-ab84-bf3b0fdf950b.jpg",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/ecb4d51b-24e8-4b9d-a2d7-8149fa1593da.jpg",
+          "imageSortOrder": 3
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/4604e36b-351e-432f-8f86-434af7a0cf08.jpg",
+          "imageSortOrder": 4
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/570a95bf-ea4b-419c-837b-8b3516ed8058.jpg",
+          "imageSortOrder": 5
+        }
+      ],
+      "productNameEn": "Portable Percussion Silent Motor & Adjustable Speeds For Professional Muscle Relaxation Massage Gun",
+      "productType": "SUPPLIER_SHIPPED_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:01:33.985Z"
+      },
+      "productWeight": 2000,
+      "productsku": "NFAM2370140",
+      "updatedAt": {
+        "$date": "2025-05-19T11:01:41.408Z"
+      },
+      "variants": [
+        {
+          "variantId": "1919953817819930626",
+          "variantKey": "Black",
+          "variantSku": "NFAM237014001AZ",
+          "variantNameEn": "",
+          "variantWeight": 2000,
+          "variantVolume": 4200000,
+          "variantCreateTime": {
+            "$date": "2025-05-07T03:13:55.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:01:33.985Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 128,
+            "sellPrice": 128
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/b99b41c6-7a02-442f-8f62-6e658c384a8c.jpg"
+        }
+      ]
+    },
+    {
+      "productId": "1919698718820392962",
+      "categoryId": "8E00C4BE-1E35-43E7-A891-6CAE58BB48CF",
+      "categoryName": "Health, Beauty & Hair/Beauty Tools/Massage & Relaxation",
+      "createdAt": {
+        "$date": "2025-05-19T11:01:41.818Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-05-05T16:00:00.000Z"
+      },
+      "productDescription": "<p><img src=\"https://cf.not-found.com/1326e292-cc37-4520-a3e0-657c293ee2da.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/3743c22d-9530-47f9-9b50-1b2479849aaf.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/4f890c4b-68f6-4571-8a91-f8b3f5abbe3f.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/f8471b87-ca47-475d-9fa8-cd9ea9e248aa.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/df1a2d90-4c47-475f-9e1e-ae3a0ae08963.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/d3427e11-482e-43d0-88da-fea52ebff128.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/e7d424d8-9f41-4ad8-8b68-42cd5ee4f160.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/67f12394-b8b5-4428-93bc-89af694a8f93.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/73fabac3-08a1-45c3-85d2-9f57266b9687.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/989777ca-db59-4ab0-981b-1f91549b47f7.png\" style=\"max-width:100%;\" contenteditable=\"false\"/><img src=\"https://cf.not-found.com/b680eb60-3bf1-40a3-9dbc-b71bae83d9aa.png\" style=\"max-width:100%;\" contenteditable=\"false\"/></p>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/e3da4957-40fd-4d96-ad25-55ab4ee21dbe.png",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/06cb0d59-692e-449a-9dc2-cf4516f2c04b.png",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/102184d3-84a8-4dad-951d-fb27e6e231e0.png",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/a2e3499f-a10c-40a3-80ec-89e2235cbc48.png",
+          "imageSortOrder": 3
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/c077e3a3-f00c-4f0b-b1d8-bbf20e121350.png",
+          "imageSortOrder": 4
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/e38164ee-1440-4516-8e41-444197ce6148.png",
+          "imageSortOrder": 5
+        }
+      ],
+      "productNameEn": "Portable Octopus Electric Head Massager With 10 Detachable Claws 4 Modes Vibration Massage To Relieve Scalp Fatigue",
+      "productType": "SUPPLIER_SHIPPED_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:01:41.818Z"
+      },
+      "productWeight": 1500,
+      "productsku": "NFAM2369814",
+      "updatedAt": {
+        "$date": "2025-05-19T11:01:53.277Z"
+      },
+      "variants": [
+        {
+          "variantId": "1919698718900084737",
+          "variantKey": "White",
+          "variantSku": "NFAM236981401AZ",
+          "variantNameEn": "",
+          "variantWeight": 1500,
+          "variantVolume": 4913000,
+          "variantCreateTime": {
+            "$date": "2025-05-06T10:20:15.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:01:41.818Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 55,
+            "sellPrice": 55
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/06cb0d59-692e-449a-9dc2-cf4516f2c04b.png"
+        }
+      ]
+    },
+    {
+      "productId": "2504240107511615100",
+      "categoryId": "0DC4DF6F-4EC5-47DF-B20D-863ADF69319F",
+      "categoryName": "Women's Clothing > Accessories > Scarves & Wraps",
+      "createdAt": {
+        "$date": "2025-05-19T11:01:53.805Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-04-23T17:07:51.000Z"
+      },
+      "productDescription": "<p><b>Product information:</b><br/>Fabric name: Artificial Silk<br/>Color: 25106 Orange<br/>Size: 180 * 90cm<br/>Suitable season: Summer<br/>Popular elements: Plaid<br/>Style: lengthened<br/>Style: Versatile, European and American<br/>Length (CM):180 * 90cm<br/></p>\n<br/>\n<b>Packing list: </b>\n<br/>Shawl *1\n<br/>\n\n<b>Product Image:</b>\n<br/>\n<img src=\"https://cf.not-found.com/quick/product/b48563a5-256b-4fdb-8be6-fa89f8537bd9.jpg\"/>\n<img src=\"https://oss-cf.not-found.com/product/2025/04/24/01/7e0dbce8-9c61-43f9-b2fa-9ab7cb61c887_trans.jpeg\"/>\n<img src=\"https://cf.not-found.com/quick/product/07b22635-a551-427f-993b-07cbe28c4430.jpg\"/>\n<img src=\"https://cf.not-found.com/quick/product/2f379951-e1ee-4ac7-85fc-29d5ec9dc03f.jpg\"/>\n<img src=\"https://oss-cf.not-found.com/product/2025/04/24/01/29d47ff6-1ff7-426a-a368-c3e6ab8e8f69_trans.jpeg\"/>\n<img src=\"https://cf.not-found.com/quick/product/fc8a2f6b-3db9-46d7-a89b-2ce6109089c9.jpg\"/>\n<img src=\"https://cf.not-found.com/quick/product/eb717861-a424-4102-b9a8-783d746ef894.jpg\"/>\n<img src=\"https://oss-cf.not-found.com/product/2025/04/24/01/409cf417-627d-4495-b62e-2714b24aa422_trans.jpeg\"/>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/1f8b1d51-51da-45a8-a734-c609402fc3d8.jpg",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/2e2fb652-998f-4135-8897-3136c15ea85e.jpg",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/341afa8a-42f7-4304-acf5-352e9114c28a.jpg",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/d5018881-78e1-48b0-b50b-1ee7c0fb8c48.jpg",
+          "imageSortOrder": 3
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/adcad8d3-55d7-4ba1-a132-5af1f559472c.jpg",
+          "imageSortOrder": 4
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/4f5476dd-17ef-4a8b-bc47-545e727b624c.jpg",
+          "imageSortOrder": 5
+        }
+      ],
+      "productNameEn": "Elegant Emulation Silk Scarf Women's Spring And Summer Sun Protection Long",
+      "productType": "ORDINARY_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:01:53.805Z"
+      },
+      "productWeight": 100,
+      "productsku": "NFYD2361114",
+      "updatedAt": {
+        "$date": "2025-05-19T11:02:06.443Z"
+      },
+      "variants": [
+        {
+          "variantId": "2504240107511615300",
+          "variantKey": "25106 Orange-180X90cm",
+          "variantSku": "NFYD236111401AZ",
+          "variantNameEn": "Elegant Emulation Silk Scarf Women's Spring And Summer Sun Protection Long 25106 Orange 180X90cm",
+          "variantWeight": 120,
+          "variantVolume": 1200000,
+          "variantCreateTime": {
+            "$date": "2025-04-24T01:07:51.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:01:53.805Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 2.02,
+            "sellPrice": 2.02
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/4f5476dd-17ef-4a8b-bc47-545e727b624c.jpg"
+        }
+      ]
+    },
+    {
+      "productId": "1913143508510212097",
+      "categoryId": "3B8946E7-B608-4DAB-B2F0-C425B7875035",
+      "categoryName": "Women's Clothing/Bottoms/Skirts",
+      "createdAt": {
+        "$date": "2025-05-19T11:02:06.894Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-04-17T16:00:00.000Z"
+      },
+      "productDescription": "<p>1.90%Nylon 10%Spandex<br/>2.Wash-resistant<br/><br/>3.Scenario：High-Intensity Yoga Pilates Daily attire<br/><br/>4.Tennis short skirt | 360° flexible and non-translucent | High elasticity and quick-drying sports skirt<br/><br/>5.Invisible side pockets can hold two tennis balls.<br/><br/></p>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/d2e1b219-8c7a-41c2-8a97-0dca7d3a62a5.jpg",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/52326394-16c4-4813-8d56-575299499124.jpg",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/13d48e5f-43b3-4a83-99fb-d6174fe9c0f3.jpg",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/7e921a25-1239-49c8-8e9d-63cc59dc4551.jpg",
+          "imageSortOrder": 3
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/96a22fb4-a7ba-469f-b925-2152ac8f6909.jpg",
+          "imageSortOrder": 4
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/38dccf61-dcdf-456f-abdb-4fc01e4c3956.jpg",
+          "imageSortOrder": 5
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/00d41d69-dced-40ad-93e4-66287b28afc9.jpg",
+          "imageSortOrder": 6
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/d3e107b8-2930-4e97-bd08-722276610047.jpg",
+          "imageSortOrder": 7
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/805d6232-f165-43cb-8c36-a7f0f085f8f6.jpg",
+          "imageSortOrder": 8
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/8e462461-b97b-43a6-993d-c13dcb650137.jpg",
+          "imageSortOrder": 9
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/53fb6c97-1b84-4547-9297-60859fbf5c42.jpg",
+          "imageSortOrder": 10
+        }
+      ],
+      "productNameEn": "3PACK Seamless Tennis Shorts Skirt For Women",
+      "productType": "SUPPLIER_SHIPPED_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:02:06.894Z"
+      },
+      "productWeight": 600,
+      "productsku": "NFQZ2356975",
+      "updatedAt": {
+        "$date": "2025-05-19T11:02:17.128Z"
+      },
+      "variants": [
+        {
+          "variantId": "1913143508636041232",
+          "variantKey": "GRYCOFWHI-L",
+          "variantSku": "NFQZ235697515OL",
+          "variantNameEn": "",
+          "variantWeight": 600,
+          "variantVolume": 1728000,
+          "variantCreateTime": {
+            "$date": "2025-04-18T08:12:12.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:02:06.894Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 25.17,
+            "sellPrice": 25.17
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/38dccf61-dcdf-456f-abdb-4fc01e4c3956.jpg"
+        }
+      ]
+    },
+    {
+      "productId": "2504150724531610400",
+      "categoryId": "9FC79C6B-AE70-472C-B8F8-D62479F0D03E",
+      "categoryName": "Home Improvement > Tools > Power Tools",
+      "createdAt": {
+        "$date": "2025-05-19T11:02:17.651Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-04-14T23:24:53.000Z"
+      },
+      "productDescription": "<p><b>Product information:</b><br/>Specifications: ultra-sensitive-T1 series 300W Black (12V to 220V), ultra-sensitive-T1 series 300W Black (12V to 110V), ultra-sensitive-T1 series 300W yellow (12V to 220V), ultra sensitive-T1 series 300W yellow (12V to 110V)<br/></p><p><br/></p><b>Packing list: </b><br/>Plastic power supply × 1<p><br/></p><b>Product Image:</b><div><b><br/></b><img src=\"https://oss-cf.not-found.com/product/2025/04/15/07/63a38fed-0976-4bf8-9755-f1f1d65a845d.jpg\"/><img src=\"https://oss-cf.not-found.com/product/2025/04/15/07/c3790730-705e-4568-8064-83364a9d3508.jpg\"/><img src=\"https://oss-cf.not-found.com/product/2025/04/15/07/4d06a11b-18c0-40c9-b4cf-53917d5a7513.jpg\"/><img src=\"https://oss-cf.not-found.com/product/2025/04/15/07/1f9671af-eba1-4e5d-9351-ab4f354beb97.jpg\"/><img src=\"https://oss-cf.not-found.com/product/2025/04/15/07/3c672d1e-0397-4009-9613-18a828b64178.jpg\"/></div>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/cf9c53dc-52ed-4755-8df7-ca884aace70b_fine.jpeg",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/3755f6f1-e788-4517-92bf-f4af84db680f_trans.jpeg",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/ad8d6368-4422-4580-960a-0127d6505a4e_fine.jpeg",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/8719f106-e3ef-476f-92f5-54625ff47a4b_trans.jpeg",
+          "imageSortOrder": 3
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/6f13308c-a5ed-4309-8a02-888ed164d621_fine.jpeg",
+          "imageSortOrder": 4
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/207b3a39-7e79-4d6a-a003-532de852bd71_trans.jpeg",
+          "imageSortOrder": 5
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/b77f0186-850a-44a3-af79-09c010ac5da7_fine.jpeg",
+          "imageSortOrder": 6
+        }
+      ],
+      "productNameEn": "Inverter 12V To 220V110V3000W Vehicle Solar Power Conversion Inverter Off-grid High Frequency Correction",
+      "productType": "ORDINARY_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:02:17.651Z"
+      },
+      "productWeight": 600,
+      "productsku": "NFYD2354214",
+      "updatedAt": {
+        "$date": "2025-05-19T11:02:40.285Z"
+      },
+      "variants": [
+        {
+          "variantId": "2504150724531610600",
+          "variantKey": "Black Style-110V-300w",
+          "variantSku": "NFYD235421402BY",
+          "variantNameEn": "Inverter 12V To 220V110V3000W Vehicle Solar Power Conversion Inverter Off-grid High Frequency Correction Black Style 110V 300w",
+          "variantWeight": 650,
+          "variantVolume": 2748900,
+          "variantCreateTime": {
+            "$date": "2025-04-15T07:24:53.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:02:17.651Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 11.28,
+            "sellPrice": 11.28
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/cf9c53dc-52ed-4755-8df7-ca884aace70b_fine.jpeg"
+        },
+        {
+          "variantId": "2504150724531610800",
+          "variantKey": "Black Style-220V-300w",
+          "variantSku": "NFYD235421403CX",
+          "variantNameEn": "Inverter 12V To 220V110V3000W Vehicle Solar Power Conversion Inverter Off-grid High Frequency Correction Black Style 220V 300w",
+          "variantWeight": 650,
+          "variantVolume": 2748900,
+          "variantCreateTime": {
+            "$date": "2025-04-15T07:24:53.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:02:17.651Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 10.28,
+            "sellPrice": 10.28
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/cf9c53dc-52ed-4755-8df7-ca884aace70b_fine.jpeg"
+        },
+        {
+          "variantId": "2504150724531611400",
+          "variantKey": "Yellow Style-110V-300w",
+          "variantSku": "NFYD235421404DW",
+          "variantNameEn": "Inverter 12V To 220V110V3000W Vehicle Solar Power Conversion Inverter Off-grid High Frequency Correction Yellow Style 110V 300w",
+          "variantWeight": 650,
+          "variantVolume": 2748900,
+          "variantCreateTime": {
+            "$date": "2025-04-15T07:24:53.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:02:17.651Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 11.28,
+            "sellPrice": 11.28
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/6f13308c-a5ed-4309-8a02-888ed164d621_fine.jpeg"
+        },
+        {
+          "variantId": "2504150724531611800",
+          "variantKey": "Yellow Style-220V-300w",
+          "variantSku": "NFYD235421405EV",
+          "variantNameEn": "Inverter 12V To 220V110V3000W Vehicle Solar Power Conversion Inverter Off-grid High Frequency Correction Yellow Style 220V 300w",
+          "variantWeight": 650,
+          "variantVolume": 2748900,
+          "variantCreateTime": {
+            "$date": "2025-04-15T07:24:53.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:02:17.651Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 10.28,
+            "sellPrice": 10.28
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/6f13308c-a5ed-4309-8a02-888ed164d621_fine.jpeg"
+        }
+      ]
+    },
+    {
+      "productId": "1908718630802485249",
+      "categoryId": "5A3E7341-18B5-4C61-BFCD-8965B3479A9A",
+      "categoryName": "Women's Clothing/Tops & Sets/Blouses & Shirts",
+      "createdAt": {
+        "$date": "2025-05-19T11:02:42.458Z"
+      },
+      "isDeleted": false,
+      "material": "",
+      "packageHeight": 0,
+      "packageLength": 0,
+      "packageWidth": 0,
+      "productCreateTime": {
+        "$date": "2025-04-05T16:00:00.000Z"
+      },
+      "productDescription": "<p>Composition:&nbsp;100% Polyester</p>\n <p>Material:&nbsp;Polyester</p>\n <p>Sleeve Length:&nbsp;Long Sleeve</p>\n <p>Details:&nbsp;Button</p>\n <p>Pattern:&nbsp;Floral</p>\n <p>Applicable People:&nbsp;Adult</p>\n <p>Sheer:&nbsp;No</p>\n <p>Placket Type:&nbsp;Placket</p>\n <p>Type:&nbsp;Shirting</p>\n <p>Season:&nbsp;All-season</p>\n <p>Operation Instruction:&nbsp;Machine wash or professional dry clean</p>\n <p>Style:&nbsp;Casual</p>\n <p>Occasion:&nbsp;Going Out</p>\n <p>Fabric Elasticity:&nbsp;No Elasticity</p>\n <p>Printing Type:&nbsp;Random Printing</p>\n <p>Weaving Method:&nbsp;Woven</p>\n <p>Collar Style:&nbsp;Lapel<br/><img src=\"https://cf.not-found.com/52578be7-d734-44b2-98ff-9bb5f2ae85df.png\" style=\"max-width:100%;\" contenteditable=\"false\"/></p>",
+      "productImages": [
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/e5e98744-d31d-45e9-8b9f-51fa4dc580de.jpg",
+          "imageSortOrder": 0
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/a3b5b883-021c-471f-804c-3f84651d7ef8.jpg",
+          "imageSortOrder": 1
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/a59e89f4-118e-402a-99ab-a0c3228525af.jpg",
+          "imageSortOrder": 2
+        },
+        {
+          "imageUrl": "https://sellnity.s3.ap-southeast-1.amazonaws.com/d080f871-ff2b-4add-8db9-4287dae8bda9.jpg",
+          "imageSortOrder": 3
+        }
+      ],
+      "productNameEn": "Women's Shirt Long Sleeved Shirt Casual Printed Flower Shirt",
+      "productType": "SUPPLIER_SHIPPED_PRODUCT",
+      "productUnit": "",
+      "productUpdateTime": {
+        "$date": "2025-05-19T11:02:42.458Z"
+      },
+      "productWeight": 250,
+      "productsku": "NFCS2346694",
+      "updatedAt": {
+        "$date": "2025-05-19T11:02:48.628Z"
+      },
+      "variants": [
+        {
+          "variantId": "1908718630936702982",
+          "variantKey": "Red-XXL",
+          "variantSku": "NFCS234669405EV",
+          "variantNameEn": "",
+          "variantWeight": 250,
+          "variantVolume": 980,
+          "variantCreateTime": {
+            "$date": "2025-04-06T03:09:18.000Z"
+          },
+          "variantUpdateTime": {
+            "$date": "2025-05-19T11:02:42.458Z"
+          },
+          "properties": [],
+          "price": {
+            "variantSellPrice": 14,
+            "sellPrice": 14
+          },
+          "variantImage": "https://sellnity.s3.ap-southeast-1.amazonaws.com/e5e98744-d31d-45e9-8b9f-51fa4dc580de.jpg"
+        }
+      ]
+    }
+  ],
+  "shops": [
+    {
+      "id": 1,
+      "name": "My Fashion Store",
+      "logo": "https://via.placeholder.com/50",
+      "platform": "Shopee",
+      "orders": 1245,
+      "products": {
+        "synced": 342,
+        "total": 100
+      },
+      "status": "CONNECTED"
+    },
+    {
+      "id": 2,
+      "name": "Tech Gadgets",
+      "logo": "https://via.placeholder.com/50",
+      "platform": "Lazada",
+      "orders": 876,
+      "products": {
+        "synced": 120,
+        "total": 100
+      },
+      "status": "CONNECTED"
+    },
+    {
+      "id": 3,
+      "name": "Home Decor",
+      "logo": null,
+      "platform": "Website cá nhân",
+      "orders": 432,
+      "products": {
+        "synced": 85,
+        "total": 100
+      },
+      "status": "PENDING"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-2023-001",
+      "shop": "Fashion Store",
+      "customer": "Nguyễn Văn A",
+      "total": 1250000,
+      "status": "processing",
+      "createdAt": "2023-05-15",
+      "items": [
+        {
+          "product": "Áo thun nam",
+          "price": 250000,
+          "quantity": 2
+        },
+        {
+          "product": "Quần jean",
+          "price": 500000,
+          "quantity": 1
+        }
+      ],
+      "shipping": {
+        "carrier": "GHN",
+        "trackingNumber": "GHN123456789",
+        "status": "shipping",
+        "estimatedDelivery": "2023-05-20"
+      },
+      "customerInfo": {
+        "name": "Nguyễn Văn A",
+        "phone": "0987654321",
+        "address": "123 Đường ABC, Quận 1, TP.HCM"
+      }
+    },
+    {
+      "id": "ORD-2023-002",
+      "shop": "Fashion Store",
+      "customer": "Nguyễn Văn B",
+      "total": 2250000,
+      "status": "shipping",
+      "createdAt": "2023-05-15",
+      "items": [
+        {
+          "product": "Áo thun nam",
+          "price": 350000,
+          "quantity": 2
+        },
+        {
+          "product": "Quần jean",
+          "price": 500000,
+          "quantity": 2
+        }
+      ],
+      "shipping": {
+        "carrier": "GHN",
+        "trackingNumber": "GHN123456789",
+        "status": "shipping",
+        "estimatedDelivery": "2023-05-20"
+      },
+      "customerInfo": {
+        "name": "Nguyễn Văn B",
+        "phone": "0987654322",
+        "address": "123 Đường ABC, Quận 1, TP.HCM"
+      }
+    }
+  ]
+}
