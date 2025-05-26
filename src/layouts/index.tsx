@@ -1,40 +1,42 @@
 "use client";
 import { Button, ConfigProvider, Layout, Menu, theme } from "antd";
-import React, { useState, useCallback, memo } from "react";
+import React, { useState, useCallback, memo, useMemo } from "react";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import {
-  MenuFoldOutlined,
-  MenuUnfoldOutlined,
   ShopOutlined,
   ShoppingCartOutlined,
+  MenuFoldOutlined,
   ShoppingOutlined,
+  MenuUnfoldOutlined,
 } from "@ant-design/icons";
-import Image from "next/image";
-
+import MemoizedMenu from "./Menu";
 const { Header, Content, Sider } = Layout;
 
-const MemoizedMenu = memo(function MemoizedMenu({
-  items,
-  pathname,
-}: {
-  items: any[];
-  pathname: string;
-}) {
-  return (
-    <Menu
-      style={{
-        height: "calc(100vh - 100px)",
-      }}
-      theme="light"
-      mode="inline"
-      defaultSelectedKeys={[pathname.split("/")[1]]}
-      items={items}
-    />
-  );
-});
+const menuItems = [
+  {
+    key: "products",
+    icon: <ShopOutlined />,
+    label: <Link href="/products">Products</Link>,
+  },
+  {
+    key: "orders",
+    icon: <ShoppingCartOutlined />,
+    label: <Link href="/orders">Orders</Link>,
+  },
+  {
+    key: "shops",
+    icon: <ShoppingOutlined />,
+    label: <Link href="/shops">Shops</Link>,
+  },
+];
 
-export function LayoutComponent({ children }: { children: React.ReactNode }) {
+export default function LayoutComponent({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   const pathname = usePathname();
   const [collapsed, setCollapsed] = useState(false);
   const {
@@ -45,35 +47,7 @@ export function LayoutComponent({ children }: { children: React.ReactNode }) {
     setCollapsed((prev) => !prev);
   }, []);
 
-  const menuItems = [
-    {
-      key: "products",
-      icon: <ShopOutlined />,
-      label: (
-        <Link href="/products" prefetch={false}>
-          Products
-        </Link>
-      ),
-    },
-    {
-      key: "orders",
-      icon: <ShoppingCartOutlined />,
-      label: (
-        <Link href="/orders" prefetch={false}>
-          Orders
-        </Link>
-      ),
-    },
-    {
-      key: "shops",
-      icon: <ShoppingOutlined />,
-      label: (
-        <Link href="/shops" prefetch={false}>
-          Shops
-        </Link>
-      ),
-    },
-  ];
+  const selectedKey = useMemo(() => pathname.split("/")[1], [pathname]);
 
   return (
     <ConfigProvider>
@@ -87,20 +61,16 @@ export function LayoutComponent({ children }: { children: React.ReactNode }) {
               height={100}
               style={{
                 objectFit: "contain",
-                transition: "all 0.2s ease",
               }}
-              priority
             />
           </div>
-          <MemoizedMenu items={menuItems} pathname={pathname} />
+          <MemoizedMenu items={menuItems} selectedKey={selectedKey} />
         </Sider>
         <Layout>
           <Header
             style={{
               padding: 0,
               background: colorBgContainer,
-              display: "flex",
-              justifyContent: "space-between",
             }}
           >
             <Button

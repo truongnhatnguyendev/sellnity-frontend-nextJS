@@ -54,7 +54,7 @@ const FilterComponent: React.FC<FilterProps> = ({
   );
 
   const debouncedFilterChange = useMemo(
-    () => createDebounce(onFilterChange, 500),
+    () => createDebounce(onFilterChange, 600),
     [createDebounce, onFilterChange]
   );
 
@@ -68,11 +68,12 @@ const FilterComponent: React.FC<FilterProps> = ({
 
   const handleChange = (key: string, value: string) => {
     const updated = { ...filters, [key]: value };
+    setFilters(updated);
     if (key === "productNameEn" || key === "priceFrom" || key === "priceTo") {
       debouncedFilterChange(updated);
+    } else {
+      onFilterChange(updated);
     }
-    setFilters(updated);
-    onFilterChange(updated);
   };
 
   const categoryOptions = useMemo(

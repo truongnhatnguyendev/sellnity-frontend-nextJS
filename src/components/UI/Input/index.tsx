@@ -1,5 +1,5 @@
+"use client";
 import { Input, InputProps } from "antd";
-import "antd/dist/reset.css";
 import { ChangeEvent, useEffect, useState } from "react";
 
 export type InputUIType = "text" | "number" | "password";
